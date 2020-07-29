@@ -1,0 +1,46 @@
+.main-heading {
+    text-align: center; 
+    
+}
+.child-image {
+    width: 263px;
+height: 195px;
+}
+.two-images-flex {
+    display: flex;
+    justify-content: space-between;
+   
+    text-align: right;
+}
+.image-flex {
+    display: flex;
+     justify-content: space-between; 
+     
+margin-right: 10px;
+margin-left: 30px;
+justify-content: space-between;
+height:200px ;
+width:1000px ;
+
+}
+.centered-div {
+    width: 900px;
+    position: absolute;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    top: 60%;
+
+}
+.word{
+    text-align: right;
+font: Regular 20px/30px Cairo;
+letter-spacing: 0px;
+color: #858585;
+opacity: 1;
+}
+.c-div{
+    padding: 8px;
+    font-size: 10px;
+    
+
+}
